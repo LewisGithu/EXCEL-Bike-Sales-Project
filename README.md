@@ -13,8 +13,8 @@ Understanding the clientbase: Who is more willing to buy and WHY.
 3. **Dynamic Reporting:** Designed an executive summary sheet with slicers controlling customers' marital status, gender and age bracket.
 
 ### 📊 Visual Evidence
-![Excel Dashboard & Slicers](images/sales_dashboard.png)
-![Pivot Tables](images/pivot_table.png)
+![Excel Dashboard & Slicers](sales_dashboard.png)
+![Pivot Tables](pivot_table.png)
 
 ###  Files Included
 * [Download Cleaned Workbook](Bikes_Sales_Project_in_EXCEL.xlsx)
