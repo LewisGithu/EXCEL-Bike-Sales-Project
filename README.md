@@ -1,0 +1,20 @@
+# BIKE STORE SALES PROJECT (Excel)
+
+### 📌 Business Problem
+Understanding the clientbase: Who is more willing to buy and WHY.
+
+### 🛠️ Tech Stack & Skills
+* **Functions:** `XLOOKUP`, `SUMIFS`, Nested `IF` statements
+* **Visualization:** A simple but deeply informative Dashboard.
+
+### 🔄 What I Did
+1. **Data Cleaning:** I removed duplicates, standardized the data and removed any unnecessary and irrelevant data.
+2. **Data Modeling:** Established relational links between `Transactions`, `Customers' income and age`, and `Customers' commute distance` lookup tables.
+3. **Dynamic Reporting:** Designed an executive summary sheet with slicers controlling customers' marital status, gender and age bracket.
+
+### 📊 Visual Evidence
+![Excel Dashboard & Slicers](images/sales_dashboard.png)
+![Pivot Tables](images/pivot_table.png)
+
+###  Files Included
+* [Download Cleaned Workbook](Bikes_Sales_Project_in_EXCEL.xlsx)
